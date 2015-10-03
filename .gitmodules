@@ -1,0 +1,3 @@
+[submodule "elm-html"]
+	path = elm-html
+	url = git@github.com:evancz/elm-html
